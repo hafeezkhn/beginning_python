@@ -1,5 +1,7 @@
 #imports and globals
 import os
+
+
 stats = dict(path='', folders=0, files=0, links=0, size=0)
 # get user inputs
 
